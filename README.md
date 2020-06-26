@@ -16,7 +16,7 @@ A bot in development that uses this [Python Telegram API](https://github.com/pyt
 
 ## Acknowledgements
 
-* Dice icon made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from www.flaticon.com"
+* Dice icon made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from www.flaticon.com
 
 ## License
 
