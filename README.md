@@ -14,10 +14,18 @@ A bot in development that uses this [Python Telegram API](https://github.com/pyt
 
 ## Getting Started
 
-To start the bot, run the following command:
+First you need to create a `constants.py` fily under the source folder containing your telegram bot token, or just replace it the imported variable in `main.py`. To generate a token, you will need to create a bot by talking to  @BotFather in telegram, its quick and easy, just follow his lead.
+
+After that, to start the bot, just run the following command:
 
 ```bash
 $ python ./src/main.py
+```
+
+If you run into the error `ImportError: cannot import name 'Type'`, try using python3 or downgrade yourtornado version with:
+
+```bash
+$ pip install tornado==5.1.1
 ```
 
 ## Acknowledgements
