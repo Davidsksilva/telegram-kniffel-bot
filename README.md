@@ -14,6 +14,12 @@ A bot in development that uses this [Python Telegram API](https://github.com/pyt
 
 ## Getting Started
 
+To start the bot, run the following command:
+
+```bash
+$ python ./src/main.py
+```
+
 ## Acknowledgements
 
 * Dice icon made by [Pixel perfect](https://www.flaticon.com/authors/pixel-perfect) from www.flaticon.com
